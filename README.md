@@ -1,2 +1,2 @@
 # alg-quadrat
-Simple excample for TDD
+Simple example for TDD
